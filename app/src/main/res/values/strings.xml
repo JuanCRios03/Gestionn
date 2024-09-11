@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proyecto de Gestion</string>
+    <string name="namep_label">Nombre del proyecto:</string>
+    <string name="name_hint">Nombre del proyecto:</string>
+    <string name="localidad_hint">Localidad</string>
+    <string name="gestion_hint">Que gestión desea realizar...</string>
+    <string name="enviar_button">Enviar</string>
+</resources>
